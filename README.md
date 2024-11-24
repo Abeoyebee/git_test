@@ -1,3 +1,4 @@
 # git_test
-My First Github Repo! Le go!
+
+My First Github Repo!
 Hello Odin! - Programmer do be programming!
